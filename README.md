@@ -10,4 +10,3 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 -select board ESP32 Dev Module
 -upload your code
 -done :D !
--
