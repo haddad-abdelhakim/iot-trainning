@@ -23,6 +23,9 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 
 
+
+
+
 sudo apt-get update
 
 sudo apt-get install mosquitto mosquitto-clients
