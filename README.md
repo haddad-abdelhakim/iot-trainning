@@ -60,6 +60,9 @@ mosquitto-2.0.18-install-windows-x32.exe [https://mosquitto.org/files/binary/win
 
 run the installer
 
+in c:\Program files\mosquitto>
+
+net start mosquitto
 Verify the Installation: mosquitto -v
 
 
