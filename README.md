@@ -63,6 +63,7 @@ run the installer
 
 run command prompt as administrator
 
+cd  c:\program files\mosquitto
 
 net start mosquitto
 
